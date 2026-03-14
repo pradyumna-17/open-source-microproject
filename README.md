@@ -16,7 +16,7 @@ Collaborative Programming using VS Code and GitHub
 4. Kuldeep Ohal - 2506125
 
 ## Programs Included
-- ......... (Pradyumna)
+- Simple Calculator in C language (Pradyumna)
 - ......... (swarali)
 - ......... (Anushka)
 - ......... (Kuldeep)
